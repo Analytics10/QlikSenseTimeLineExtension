@@ -5,7 +5,7 @@ This proyect is based in Google Chart API and extension TimeLineChart by KAI htt
 # [Qlik Sense](http://global.qlik.com/uk/explore/products/sense) Timeline Chart
 
 - GitHub URL: https://github.com/Analytics10/QlikSenseTimeLineExtension
-- Qlik Branch URL: http://branch.qlik.com/#/project/56728f52d1e497241ae697ef
+- Qlik Branch URL: 
 
 ## Screenshot
 
