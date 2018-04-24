@@ -1,0 +1,11 @@
+{
+	"name" : "Google Timeline",
+	"description" : "Google Timeline",
+	"icon" : "bar-chart-vertical",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "A10.png",
+	"author": "Kai Hilton-Jones,Paulo Hernández",
+	"homepage": "Analytics10.com",
+	"email":	"paulo.hernandez@analytics10.com"
+}
